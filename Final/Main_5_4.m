@@ -1,8 +1,0 @@
-clear;
-clc;
-
-Step9_1_Solving_Sampling_Solution;
-Step9_2_Worst_Distribution_for_ARO;
-Step9_2_Worst_Distribution_for_Sampling;
-Step9_3_PerformanceCalculation;
-Step9_4_PerformanceAnalysis;
